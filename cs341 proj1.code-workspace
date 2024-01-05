@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../cs341 proj0"
+		},
+		{
+			"name": "SSH FS - umbc_gl",
+			"uri": "ssh://umbc_gl/afs/umbc.edu/users/j/d/jdrakes1/home"
+		}
+	],
+	"settings": {}
+}
